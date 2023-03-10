@@ -3,7 +3,7 @@
     "type": "file",
     "id": "tailwind-config-block",
     "title": "Tailwind Config Viewer",
-    "description": "View your Tailwind config",
+    "description": "View your Tailwind config (WIP)",
     "entry": "blocks/tailwind-config-block/index.tsx",
     "matches": ["tailwind.config.js"],
     "example_path": "https://github.com/BrentWMiller/blocks/blob/main/samples/tailwind.config.js"
